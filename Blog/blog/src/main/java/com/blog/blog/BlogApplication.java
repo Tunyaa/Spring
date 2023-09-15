@@ -1,4 +1,4 @@
-package com.doit.blog;
+package com.blog.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
